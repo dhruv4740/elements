@@ -1,0 +1,45 @@
+import random
+quotes = [
+    "You've got this, no matter what!",
+    "Small steps lead to big changes—keep going!",
+    "You're doing better than you think!",
+    "Don't forget to give yourself some credit today.",
+    "The best time to start was yesterday; the second-best is now."
+]
+print("Welcome to your custom calculator!")
+print("Designed by: e/dhruvkothari")
+
+try:
+    num1 = float(input("Enter the first number: "))
+    num2 = float(input("Enter the second number: "))
+
+    print("\nChoose an operation:")
+    print("1. Add\n2. Subtract\n3. Multiply\n4. Divide")
+    choice = input("Enter your choice (1/2/3/4): ")
+    if choice == '1':
+        result = num1 + num2
+        operation = "Addition"
+    elif choice == '2':
+        result = num1 - num2
+        operation = "Subtraction"
+    elif choice == '3':
+        result = num1 * num2
+        operation = "Multiplication"
+    elif choice == '4':
+        if num2 != 0:
+            result = num1 / num2
+            operation = "Division"
+        else:
+            result = "undefined (division by zero)"
+            operation = "Division"
+    else:
+        result = "Invalid choice"
+        operation = "None"
+
+    print(f"\n{operation} result: {result}")
+    print("\nHere's something for you:")
+    print(random.choice(quotes))
+
+    print("\nPowered by e/dhruvkothari. Keep calculating and keep winning!")
+except Exception as e:
+    print(f"\nAn error occurred: {e}")

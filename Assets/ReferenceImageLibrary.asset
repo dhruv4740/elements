@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5138619165287035062
+  m_GuidHigh: 6739092594878709687
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5212699682411378568
+      m_GuidHigh: 9449794809435899540
+    m_SerializedTextureGuid:
+      m_GuidLow: 3063844622216993586
+      m_GuidHigh: 12171874716067272522
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: hydrogen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5537039473924228684
+      m_GuidHigh: 11098664558065638578
+    m_SerializedTextureGuid:
+      m_GuidLow: 289508950842124412
+      m_GuidHigh: 2808926646724025851
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: oxygen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4752348209278572532
+      m_GuidHigh: 8451103485836159164
+    m_SerializedTextureGuid:
+      m_GuidLow: 1865806657242881052
+      m_GuidHigh: 18243853991339820810
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: sodium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4697277825649452366
+      m_GuidHigh: 17812616089196610706
+    m_SerializedTextureGuid:
+      m_GuidLow: 3198818930269171377
+      m_GuidHigh: 2665965313750949241
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chlorine
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5324476071816014752
+      m_GuidHigh: 17339804528404150166
+    m_SerializedTextureGuid:
+      m_GuidLow: 12305147028301913085
+      m_GuidHigh: 610033495523315258
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: magnesium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5179961011323019940
+      m_GuidHigh: 18375720235014103969
+    m_SerializedTextureGuid:
+      m_GuidLow: 4365381885568800861
+      m_GuidHigh: 7302687145786393528
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: aluminium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5469420049701458842
+      m_GuidHigh: 16796121747614737295
+    m_SerializedTextureGuid:
+      m_GuidLow: 5396686863849542197
+      m_GuidHigh: 16614795807415088313
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: sulphur
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5464990971689680679
+      m_GuidHigh: 10343258507866529201
+    m_SerializedTextureGuid:
+      m_GuidLow: 12043861344026321026
+      m_GuidHigh: 15072886417754904712
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: calcium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5405661385766798189
+      m_GuidHigh: 12547249790910571198
+    m_SerializedTextureGuid:
+      m_GuidLow: 591179417120986175
+      m_GuidHigh: 7724488245055136587
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: zinc
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5267575923493012222
+      m_GuidHigh: 6443979623233880765
+    m_SerializedTextureGuid:
+      m_GuidLow: 10782784839999322360
+      m_GuidHigh: 13850429089470875976
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mercury
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5059457191580407630
+      m_GuidHigh: 468903257681888183
+    m_SerializedTextureGuid:
+      m_GuidLow: 16151080867725045148
+      m_GuidHigh: 16420506535574592761
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: potassium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4651891994429551551
+      m_GuidHigh: 5535383215396390846
+    m_SerializedTextureGuid:
+      m_GuidLow: 5648652818813706730
+      m_GuidHigh: 7167138604547825978
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: iron
+    m_Texture: {fileID: 0}

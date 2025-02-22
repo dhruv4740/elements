@@ -1,0 +1,5 @@
+C:/Users/hp/water/.utmp/RelWithDebInfo/6w1h1p6d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/hp/water/.utmp/RelWithDebInfo/6w1h1p6d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/hp/water/.utmp/RelWithDebInfo/6w1h1p6d/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/hp/water/.utmp/RelWithDebInfo/6w1h1p6d/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/hp/water/.utmp/RelWithDebInfo/6w1h1p6d/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
